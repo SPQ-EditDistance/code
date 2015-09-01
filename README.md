@@ -1,5 +1,5 @@
 # Private-Edit-Distance-Approximation
-
+Link to the paper: http://www.cs.umd.edu/~wangxiao/papers/ped.pdf
 
 ## Compilation and Setup:
 
@@ -30,4 +30,13 @@ or
 
 4.Try to change parameters in Conf.conf and rerun
 
-In order to run over internet, update the address in Conf.conf to generator's ip address. Make sure each party has their own files.
+More data can be obtained from PGP project: http://www.personalgenomes.org/
+Certains genome files has slightly different format and may need slightly changes on preprocessing
+code.
+
+To run over internet, update the address in Conf.conf to generator's ip address. Make sure each party has their own files.
+
+
+### Question about the code?
+
+please email me at wangxiao (aT) cs (Dot) umd (dOt) edu
