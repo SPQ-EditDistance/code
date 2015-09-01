@@ -1,0 +1,3 @@
+[submodule "FlexSC"]
+	path = FlexSC
+	url = https://github.com/wangxiao1254/FlexSC.git
