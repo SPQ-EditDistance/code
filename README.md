@@ -15,10 +15,11 @@
 
 `./compile.sh`
 
-`processed`
+`mkdir processed`
 
 `java -cp bin/ offline.DataPreprocessor listOfGenome processed/`
 
+## Run the protocols
 3.Run Protocols
 
 `./run.py gen ptcl1  & ./run.py eva ptcl1`
@@ -28,3 +29,5 @@ or
 `./run.py gen ptcl2  & ./run.py eva ptcl2`
 
 4.Try to change parameters in Conf.conf and rerun
+
+In order to run over internet, update the address in Conf.conf to generator's ip address. Make sure each party has their own files.
